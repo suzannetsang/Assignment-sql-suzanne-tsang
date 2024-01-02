@@ -1,4 +1,3 @@
-# Assignment-sql-suzanne-tsang
 <H1>Summary</H1>
 <p>The purpose of this relational database is to keep track of sales records, customer information, and product information for a dessert shop's e-commerce site. This database aims to provide unified data that supports the shop's needs to check sales performance, product details, and customer order history without redundant data. It stores information about customers, payment records, order records, order items, products, and categories.</p>
 <H3>Description of the database</H3>
